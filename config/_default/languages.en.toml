@@ -1,0 +1,63 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "TOYTAG"
+# logo = "img/logo.png"
+description = "Personal Website + Blog"
+copyright = "Copy, _right?_ :thinking_face: <br>© 2023 Zhenzhong (Anthony) Tang"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Zhenzhong (Anthony) Tang"
+  image = "img/avatar.jpg"
+  headline = "CS + CG @ Penn | ex-SDE Intern @ Amazon & Western Digital"
+  bio = "超然世外，欲乘物以遊心，逍遙馳騁，必先了悟宇宙之真諦,<br>才能至上善若水，利萬物而不爭，下百川，因容而深邃之境界。"
+  links = [
+    # { email = "mailto:hello@your_domain.com" },
+    # { link = "https://link-to-some-website.com/" },
+    { instagram = "https://instagram.com/zhenzhong_anthony_tang/" },
+    { linkedin = "https://linkedin.com/in/zhenzhong-anthony-tang-82334a210/" },
+    { github = "https://github.com/toytag/" },
+    # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+    # { apple = "https://www.apple.com" },
+    # { blogger = "https://username.blogspot.com/" },
+    # { codepen = "https://codepen.io/username" },
+    # { dev = "https://dev.to/username" },
+    # { discord = "https://discord.gg/invitecode" },
+    # { dribbble = "https://dribbble.com/username" },
+    # { facebook = "https://facebook.com/username" },
+    # { flickr = "https://www.flickr.com/photos/username/" },
+    # { foursquare = "https://foursquare.com/username" },
+    # { gitlab = "https://gitlab.com/username" },
+    # { google = "https://www.google.com/" },
+    # { hashnode = "https://username.hashnode.dev" },
+    # { keybase = "https://keybase.io/username" },
+    # { kickstarter = "https://www.kickstarter.com/profile/username" },
+    # { ko-fi = "https://ko-fi.com/username" },
+    # { lastfm = "https://lastfm.com/user/username" },
+    # { mastodon = "https://mastodon.instance/@username" },
+    # { medium = "https://medium.com/username" },
+    # { microsoft = "https://www.microsoft.com/" },
+    # { orcid = "https://orcid.org/userid" },
+    # { patreon = "https://www.patreon.com/username" },
+    # { pinterest = "https://pinterest.com/username" },
+    # { reddit = "https://reddit.com/user/username" },
+    # { researchgate = "https://www.researchgate.net/profile/username" },
+    # { slack = "https://workspace.url/team/userid" },
+    # { snapchat = "https://snapchat.com/add/username" },
+    # { soundcloud = "https://soundcloud.com/username" },
+    # { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+    # { steam = "https://steamcommunity.com/profiles/userid" },
+    # { telegram = "https://t.me/username" },
+    # { tiktok = "https://tiktok.com/@username" },
+    # { tumblr = "https://username.tumblr.com" },
+    # { twitch = "https://twitch.tv/username" },
+    # { twitter = "https://twitter.com/username" },
+    # { whatsapp = "https://wa.me/phone-number" },
+    # { youtube = "https://youtube.com/username" },
+  ]
